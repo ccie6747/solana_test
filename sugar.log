@@ -1,0 +1,5 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"dansbook.local","pid":52620,"time":"2025-02-23T03:17:11.70948Z","target":"sugar","line":123,"file":"/Users/danprice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sugar-cli-2.6.0/src/main.rs"}
+{"v":0,"name":"sugar","msg":"ParseError(\"missing field `ruleSet` at line 25 column 1\")","level":50,"hostname":"dansbook.local","pid":52620,"time":"2025-02-23T03:17:11.710458Z","target":"sugar_cli::config::parser","line":36,"file":"/Users/danprice/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sugar-cli-2.6.0/src/config/parser.rs"}
+
+rs"}
+index.crates.io-1949cf8c6b5b557f/sugar-cli-2.6.0/src/config/parser.rs"}
