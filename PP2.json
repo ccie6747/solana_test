@@ -1,0 +1,11 @@
+{
+  "name": "PP2 Token",
+  "symbol": "PP2",
+  "description": "PP2 is a test token on Solana Devnet.",
+  "image": "https://raw.githubusercontent.com/ccie6747/solana_test/main/pp2.png",
+  "decimals": 9,
+  "extensions": {
+    "website": "https://www.officialpp2meme.com",
+    "twitter": "https://x.com/@ThePP2"
+  }
+}
