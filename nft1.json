@@ -1,0 +1,19 @@
+{
+  "name": "DK-Butterfly",
+  "symbol": "DKB",
+  "description": "When DK Meets Butterfly",
+  "seller_fee_basis_points": 500, 
+  "image": "https://raw.githubusercontent.com/ccie6747/solana_test/main/dkb.png",
+  "attributes": [
+    { "trait_type": "Background", "value": "Black" },
+    { "trait_type": "Type", "value": "Rare" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "9zP2Xa9df3WF9tLQrZn2VHdyMP7qEaXt1mu6D6xvTbLc",
+        "share": 100
+      }
+    ]
+  }
+}
